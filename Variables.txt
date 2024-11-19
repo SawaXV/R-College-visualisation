@@ -1,0 +1,41 @@
+gender
+factor indicating gender.
+
+ethnicity
+factor indicating ethnicity (African-American, Hispanic or other).
+
+score
+base year composite test score. These are achievement tests given to high school seniors in the sample.
+
+fcollege
+factor. Is the father a college graduate?
+
+mcollege
+factor. Is the mother a college graduate?
+
+home
+factor. Does the family own their home?
+
+urban
+factor. Is the school in an urban area?
+
+unemp
+county unemployment rate in 1980.
+
+wage
+state hourly wage in manufacturing in 1980.
+
+distance
+distance from 4-year college (in 10 miles).
+
+tuition
+average state 4-year college tuition (in 1000 USD).
+
+education
+number of years of education.
+
+income
+factor. Is the family income above USD 25,000 per year?
+
+region
+factor indicating region (West or other).
